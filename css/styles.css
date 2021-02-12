@@ -1,22 +1,35 @@
 h2.links {
   word-spacing: 30px;
-  text-align: right;
   font-size: 20pt;
+  background-color: darkgoldenrod;
 }
 h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 70pt;
-  text-align: center;
+  background-color: darkgoldenrod;
+
 }
 h2 {
   font-family: cursive;
   font-style: oblique;
   font-size: 40pt;
-  text-align: center;
+  background-color: khaki;
 }
 h3 {
   font-family: fantasy;
   font-style: italic;
   font-size: 30pt;
+  background-color: khaki;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: khaki;
+  text-align: right;
+}
+body {
   text-align: center;
+  background-image: url(/home/bobo/Desktop/moringa-school-projects/resort-project/images/sun.jpeg);
+  background-position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
